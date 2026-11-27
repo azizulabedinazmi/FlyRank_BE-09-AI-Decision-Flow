@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# committed template (no secrets)
+!.env.example
+
+# run records written by the Inngest function
+.data/
