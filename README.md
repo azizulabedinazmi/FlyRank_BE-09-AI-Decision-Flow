@@ -1,6 +1,6 @@
 <p align="center"><img src="docs/banner.svg" alt="AI Decision Flow: a visual workflow of YES/NO AI steps, run by Inngest" width="100%"></p>
 
-# AI Decision Flow (BE-09)
+# AI Decision Flow (BE-09 · Week 7)
 
 A visual workflow builder in which **every node is one AI decision**. You draw the flow in React Flow, give each decision node a
 question, and press Run. Inngest runs the flow on the server one node at a time, with **one durable `step.run` per node**.

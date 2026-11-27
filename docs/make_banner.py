@@ -135,7 +135,7 @@ execution log lists each Inngest step in order. By Azizul Abedin Azmi, FlyRank v
 <rect width="{W}" height="{H}" fill="#051F21"/><rect width="{W}" height="{H}" fill="url(#g2)"/>
 <rect width="{W}" height="{H}" fill="url(#g1)"/><rect width="{W}" height="{H}" fill="url(#grid)"/>
 
-<text x="72" y="98" class="eyebrow">FLYRANK AI INTERNSHIP · BE-09</text>
+<text x="72" y="98" class="eyebrow">FLYRANK AI INTERNSHIP · BE-09 · WEEK 7</text>
 <text x="66" y="190" class="h1">AI Decision</text>
 <text x="66" y="276" class="h1">Flow</text>
 <text x="72" y="334" class="sub">Every node asks the model one question.</text>
