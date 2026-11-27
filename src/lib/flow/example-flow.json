@@ -8,7 +8,7 @@
       { "id": "is-outage", "type": "decision", "position": { "x": 640, "y": 60 },
         "data": { "label": "Bug or outage?", "prompt": "Does the message report something broken: a bug, a crash, an error or the service being down?" } },
       { "id": "is-buying", "type": "decision", "position": { "x": 640, "y": 360 },
-        "data": { "label": "Buying intent?", "prompt": "Does the message ask about pricing, plans, a demo, a quote or buying the product?" } },
+        "data": { "label": "Buying intent?", "prompt": "Is the sender interested in buying or upgrading? Answer YES if they ask about price, cost, plans, a demo, a quote or a trial." } },
       { "id": "engineering", "type": "outcome", "position": { "x": 980, "y": 0 }, "data": { "label": "Engineering on-call" } },
       { "id": "support", "type": "outcome", "position": { "x": 980, "y": 140 }, "data": { "label": "Support team" } },
       { "id": "sales", "type": "outcome", "position": { "x": 980, "y": 300 }, "data": { "label": "Sales team" } },
